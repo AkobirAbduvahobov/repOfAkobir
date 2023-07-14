@@ -2,4 +2,7 @@ public class Student
 {
 	ctor()
 	salom
+	Salom Aybek
+
+	Salom Akobir
 }
